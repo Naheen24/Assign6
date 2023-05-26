@@ -8,14 +8,14 @@
     <title>Complete Responsive Landing Page Website Design</title>
     <link rel="stylesheet" href="css/style.css">
 
-    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.4/css/all.min.css">
+    <link rel="stylesheet" href="style.css">
 </head>
 
 <body>
     <!-- navbar sections starts  -->
     <header class="header">
         <div class="logo">
-            <img src="images/logo-bookmark.svg" alt="logo-bookmark">
+            <img src="logo-bookmark.svg" alt="logo-bookmark">
         </div>
 
         <nav class="navbar">
@@ -44,7 +44,7 @@
 
 
         <div class="image">
-            <img src="images/illustration-hero.svg" alt="illustration-hero">
+            <img src="illustration-hero.svg" alt="illustration-hero">
         </div>
     </section>
 
@@ -62,7 +62,7 @@
         <div class="row">
             <!-- 1 Tab  -->
             <div class="image">
-                <img src="images/illustration-features-tab-1.svg" alt="illustration-features-tab-1">
+                <img src="illustration-features-tab-1.svg" alt="illustration-features-tab-1">
             </div>
 
 
